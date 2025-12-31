@@ -1,4 +1,4 @@
-# Event Booking System (FINAL – VERIFIED)
+# Event Booking System
 
 ## Backend
 cd backend
